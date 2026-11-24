@@ -1,0 +1,18 @@
+Flask>=3.0
+Flask-Cors>=4.0
+Flask-JWT-Extended>=4.6
+Flask-Limiter>=3.8
+Flask-SQLAlchemy>=3.1
+PyMySQL>=1.1
+cryptography>=43.0
+bcrypt>=4.2
+python-dotenv>=1.0
+PyMuPDF>=1.24
+python-docx>=1.1
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-google-genai>=2.1
+langchain-openai>=0.3  # optional: only if LLM_PROVIDER=openai
+chromadb>=0.5
+reportlab>=4.2
+pytest>=8.3
